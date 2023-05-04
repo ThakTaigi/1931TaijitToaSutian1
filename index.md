@@ -12,9 +12,12 @@ title: 紹介
 - 出版單位：臺灣總督府
 - 出版時間：1931
 - 特色：
-  - 大家公認siōng好ê台語辭典
-  - 保留戰前日本時代toaⁿ-tiah ê台語詞，差不多有9萬條
-  - 用台北腔做標準，nā chhiau bô請ka-tī轉換拼寫方式
+  - Kàu taⁿ大家認同chit本是世間siōng好ê台語辭典
+  - 日本時代政府頭1本台日辭典，投入chē-chē政府資源來編--ê
+  - 保留戰前日本時代toaⁿ-tiah ê台語詞，詞彙有收9萬thóng條
+  - 用台北腔做標準，mā有收其他ê講法，nā chhiau bô請ka-tī轉換拼寫方式
+    - 例：「hāu-seⁿ」chhōe bô請改「hāu-siⁿ」
+  - 詳細說明請參考[目錄kap補充資料](./bokliok/)
   - 上卷tī 1931年出版，[下卷](https://thak.taigi.info/1932TaijitToaSutian2/){:target="_blank"} tī 1932年出版
 
 ---
