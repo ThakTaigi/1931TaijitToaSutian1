@@ -1,7 +1,7 @@
 (function(){
   let imgSources = [];
   const imgSourcesMin = 1;
-  const imgSourcesMax = 894;
+  const imgSourcesMax = 892;
   for (i = imgSourcesMin; i < imgSourcesMax + 1; i++) {
     imgSources.push({
       type: 'image',
