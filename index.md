@@ -22,7 +22,7 @@ title: 紹介
       - 例：「hāu-seⁿ」chhōe bô請改「hāu-siⁿ」
     - 有收tio̍h 1 kóa廈門音是咱台語bô teh講--ê，親像台語「koân」，內底kan-na收「koâiⁿ」
     - 漢字ê所在nā寫「☐」，to̍h是bô漢字thang寫
-- 數位化
+- 數位化：
   - ChhoeTaigi目前tng teh kā原冊日文全文數位化，mā有teh校對Lîm Chùn-io̍k（林俊育）先生數位化ê資料。
 
 ---
